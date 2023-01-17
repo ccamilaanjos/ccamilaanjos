@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
 # Hi, I'm Camila! 👋
-#### Soon, a Backend developer 🖥️
+#### Soon, a Back-End Developer 🖥️
 
 <br/>
-🧠 I’m currently learning C and Java
+🧠 I’m currently learning Java
 
 ⚡*Former law student, Xena geek and cats lover.*
 <br/><br/>
