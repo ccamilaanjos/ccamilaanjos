@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
-# Hi, I'm Camila! 👋
+# _Hey there! I'm Camila._ 👋
 #### Soon, a Back-End Developer 🖥️
 
 <br/>
