@@ -9,15 +9,19 @@
 ⚡*Former law student, Xena geek and cats lover.*
 <br/><br/>
 - How to reach me:
-
-    [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white&link=https://www.github.com/ccamilaanjos/)](https://www.github.com/ccamilaanjos/)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ccamilaanjos/)](https://www.linkedin.com/in/ccamilaanjos/)
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anjoscam.irl@gmail.com)](mailto:anjoscam.irl@gmail.com)
-
+ <ul>
+ <a href="https://www.linkedin.com/in/ccamilaanjos/">
+    <img height="40" src="https://user-images.githubusercontent.com/101238082/213328053-2b05f8f9-3a1b-467b-b1a4-7906e46bfe73.png"/>
+</a>
+&nbsp&nbsp
+<a href="mailto:ccamilaanjos.ctt@gmail.com">
+   <img height="40" src="https://user-images.githubusercontent.com/101238082/213328770-3cb1f3a7-b797-4c95-a8df-8d14f7aed3e1.png"/>
+</a>
+</ul>
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ccamilaanjos&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=000000"/> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&hide=nix,c%2B%2B&layout=compact&hide_border=true&title_color=00ff00&text_color=00bfbf&bg_color=000000" />
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=ccamilaanjos&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=000000"/> 
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&hide=nix,c%2B%2B&layout=compact&hide_border=true&title_color=00ff00&text_color=00bfbf&bg_color=000000" />
 </div>
 
 #### Languages:
@@ -41,3 +45,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
+
+
