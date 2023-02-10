@@ -1,8 +1,8 @@
 # _Hey there! I'm Camila._ 👋
-#### Soon, a Back-End Developer 🖥️
+#### Back-End Developer 🖥️
 
 <br/>
-🧠 I’m currently learning Java
+🧠 I’m currently learning Java and Javascript
 
 ⚡*Former law student, Xena geek and cats lover.*
 <br/><br/>
@@ -19,20 +19,21 @@
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ccamilaanjos&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=000000"/> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&hide=nix,c%2B%2B&layout=compact&hide_border=true&title_color=00ff00&text_color=00bfbf&bg_color=000000" />
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&hide=nix,html,css,c%2B%2B&layout=compact&hide_border=true&title_color=00ff00&text_color=00bfbf&bg_color=000000" />
 </div>
 
 #### Languages:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### IDEs:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
