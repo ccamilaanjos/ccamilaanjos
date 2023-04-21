@@ -18,8 +18,8 @@
 </ul>
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ccamilaanjos&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=000000"/> 
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&hide=nix,html,c,css,cmake,c%2B%2B&layout=compact&langs_count=4&hide_border=true&title_color=00ff00&text_color=00bfbf&bg_color=000000" />
+  <img width="48%" height="190px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ccamilaanjos&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=000000"/> 
+ <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&layout=compact&langs_count=4&hide=nix,html,c,css,cmake,c%2B%2B&hide_border=true&title_color=00ff00&text_color=00bfbf&bg_color=000000" />
 </div>
 
 #### Languages:
