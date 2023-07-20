@@ -1,7 +1,7 @@
 # _Hey there! I'm Camila._ 👋
 #### FullStack Developer 🖥️
 <br/>
-🧠 Volunteer on an undergraduate research project.
+🧠 Volunteer developer on an undergraduate research project.
 
 ⚡*Former law student, Xena geek and cats lover.*
 <br/><br/>
