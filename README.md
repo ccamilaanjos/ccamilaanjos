@@ -1,5 +1,5 @@
 # _Hey there! I'm Camila._ 👋
-#### FullStack Developer 🖥️
+
 <br/>
 🧠 Volunteer developer on an undergraduate research project.
 
