@@ -13,9 +13,9 @@ class Bio extends SoftwareDeveloper {
     name       = '✍️ Camila Anjos';
     age        = '👱‍ 19 years'; 
     location   = '🏠 Salvador, BA - Brazil';                                                                          
-    occupation = '👨‍🏫 FullStack Developer';
+    occupation = '👨‍🏫 Backend Developer';
     studying   = '💻 Computer Systems Analysis and Development';
-    focus      = '🎯 Node.js, Flutter, Java';                                                                    
+    focus      = '🎯 Java, Spring Boot, Node.js';                                                                    
 }
 ```     
 
