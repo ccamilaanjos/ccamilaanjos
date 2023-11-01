@@ -1,7 +1,7 @@
 # _Hey there! I'm Camila._ 👋
 
 <br/>
-🧠 Volunteer developer on an undergraduate research project.
+🧠 Developer on a research project.
 
 ⚡*Former law student, Xena geek and cats lover.*
 <br/><br/>
