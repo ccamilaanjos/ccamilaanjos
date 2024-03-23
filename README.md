@@ -15,7 +15,7 @@ class Bio extends SoftwareDeveloper {
     location   = '🏠 Salvador, BA - Brazil';                                                                          
     occupation = '👨‍🏫 Backend Developer';
     studying   = '💻 Computer Systems Analysis and Development';
-    focus      = '🎯 Java, Spring Boot, Node.js';                                                                    
+    focus      = '🎯 Spring Boot, Angular';                                                                    
 }
 ```     
 
