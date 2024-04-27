@@ -11,7 +11,7 @@ import SoftwareDeveloper from 'ccamilaanjos';
 
 class Bio extends SoftwareDeveloper {
     name       = '✍️ Camila Anjos';
-    age        = '👱‍ 19 years'; 
+    age        = '👱‍ 20'; 
     location   = '🏠 Salvador, BA - Brazil';                                                                          
     occupation = '👨‍🏫 Backend Developer';
     studying   = '💻 Computer Systems Analysis and Development';
