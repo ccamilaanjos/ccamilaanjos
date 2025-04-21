@@ -17,10 +17,10 @@ class Bio extends SoftwareDeveloper {
     studying   = '💻 Computer Systems Analysis and Development';
     focus      = '🎯 Spring Boot, Angular';                                                                    
 }
-```     
+```
 
 
-- How to reach me:
+- How to reach me: </li>
  <ul>
  <a href="https://www.linkedin.com/in/ccamilaanjos/">
     <img height="40" src="https://user-images.githubusercontent.com/101238082/213328053-2b05f8f9-3a1b-467b-b1a4-7906e46bfe73.png"/>
