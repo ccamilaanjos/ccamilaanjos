@@ -30,7 +30,7 @@ public class Bio extends SoftwareDeveloper {
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://documentation.red-gate.com/download/attachments/138346876/FD?version=3&modificationDate=1633982869952&api=v2" height="49px" alt="Flyway" />
+  <img src="https://documentation.red-gate.com/download/attachments/138346876/FD?version=3&modificationDate=1633982869952&api=v2" width="50px" alt="Flyway" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="50px" alt="Swagger" />
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" />
