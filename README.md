@@ -1,6 +1,6 @@
 # 𝐻𝑖 𝑡ℎ𝑒𝑟𝑒! 𝐼'𝑚 𝐶𝑎𝑚𝑖𝑙𝑎.
 
-🧠 Fullstack Web Developer on an Innovation Project.<br/>
+🧠 Backend Developer.<br/>
 ⚡*Philomatic, Xena geek and cats lover.*
 
 ```java
