@@ -52,7 +52,8 @@ public class Bio extends SoftwareDeveloper {
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /><br/>
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /><br/>
 
   <!-- IDEs -->
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
