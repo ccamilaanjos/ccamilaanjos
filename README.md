@@ -18,7 +18,7 @@ public class Bio extends SoftwareDeveloper {
         this.location = "Salvador, BA - Brasil";
         this.occupation = "Backend Developer";
         this.studying = "Computer Systems Analysis and Development";
-        this.focus = "Java, Spring Boot, Angular";
+        this.focus = "Java, Spring Framework, Angular";
     }
 }
 ```
@@ -51,7 +51,8 @@ public class Bio extends SoftwareDeveloper {
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /><br/>
 
   <!-- IDEs -->
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
@@ -63,8 +64,8 @@ public class Bio extends SoftwareDeveloper {
 <div align="center">
   <img width="48%" height="190px"
     src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ccamilaanjos&show_icons=true&count_private=true&hide_border=true&title_color=b07219&icon_color=b07219&text_color=e0e6ec&bg_color=000000"/> 
-  <img width="41%" height="190px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&layout=compact&langs_count=4&hide=nix,html,c,css,cmake,c%2B%2B&hide_border=true&title_color=e0e6ec&text_color=e0e6ec&bg_color=000000" />
+  <!-- <img width="41%" height="190px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&layout=compact&langs_count=4&hide=nix,html,c,css,cmake,c%2B%2B&hide_border=true&title_color=e0e6ec&text_color=e0e6ec&bg_color=000000" /> -->
 </div>
 
 <h2> Connect with Me </h2>
