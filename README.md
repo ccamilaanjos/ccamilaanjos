@@ -68,7 +68,7 @@ public class Bio extends SoftwareDeveloper {
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilaanjos&layout=compact&langs_count=4&hide=nix,html,c,css,cmake,c%2B%2B&hide_border=true&title_color=e0e6ec&text_color=e0e6ec&bg_color=000000" /> -->
 </div>
 
-<h2> Connect with Me </h2>
+<h3> Connect with Me </h3>
 <div align="center">
   <a href="https://linkedin.com/in/ccamilaanjos" target="blank"><img align="center" src="https://github.com/ccamilaanjos/ccamilaanjos/blob/dd6b14c679614186c8e153a24f90f755ae1b21ed/assets/linkedin.svg" width="45px" /></a>
   <a href="mailto:ccamilaanjos.dev@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="45px" /></a>
