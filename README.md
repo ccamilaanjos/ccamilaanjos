@@ -73,6 +73,5 @@ public class Bio extends SoftwareDeveloper {
   <a href="https://linkedin.com/in/ccamilaanjos" target="blank"><img align="center" src="https://github.com/ccamilaanjos/ccamilaanjos/blob/dd6b14c679614186c8e153a24f90f755ae1b21ed/assets/linkedin.svg" width="45px" /></a>
   <a href="mailto:ccamilaanjos.dev@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="45px" /></a>
   <a href="https://t.me/ccamilaanjos" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/3536/3536661.png?uid=R163770428&ga=GA1.1.957486509.1743113173&semt=ais_hybrid" width="45px" /></a>
-  <a href="https://x.com/ccamilaanjos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/960px-X_logo_2023_%28white%29.png?20230728230735" width="45px" /></a>
 </div>
 
