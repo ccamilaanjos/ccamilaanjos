@@ -14,7 +14,7 @@ public class Bio extends SoftwareDeveloper {
 
     public Bio() {
         this.name = "Camila Anjos";
-        this.age = 21;
+        this.age = 22;
         this.location = "Salvador, BA - Brasil";
         this.occupation = "Backend Developer";
         this.studying = "Computer Systems Analysis and Development";
