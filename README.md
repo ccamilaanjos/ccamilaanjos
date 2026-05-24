@@ -17,8 +17,7 @@ public class Bio extends SoftwareDeveloper {
         this.age = 22;
         this.location = "Salvador, BA - Brasil";
         this.occupation = "Backend Developer";
-        this.studying = "Computer Systems Analysis and Development";
-        this.focus = "Java, Spring Framework, Angular";
+        this.focus = "Java, Spring Framework";
     }
 }
 ```
